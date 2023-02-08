@@ -1,6 +1,8 @@
 package org.pac;
 
 public class Practice {
+	int a=100;
+	
 	private void SamMethod() {
 		System.out.println("Sam...");
 	}
